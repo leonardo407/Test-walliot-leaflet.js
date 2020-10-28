@@ -1,6 +1,6 @@
 # test-walliot
 
-[Ссылка на Техническое Задание](https://github.com/waliot/test-tasks/blob/master/tasks/frontend-1.md)
+[Link to terms of reference](https://github.com/waliot/test-tasks/blob/master/tasks/frontend-1.md)
 
 ## Project setup
 
